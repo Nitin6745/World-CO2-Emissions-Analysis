@@ -1,4 +1,3 @@
-# World-CO2-Emissions-Analysis
 # 🌍 World CO₂ Emissions Analysis
 
 ## 1. Project Overview
